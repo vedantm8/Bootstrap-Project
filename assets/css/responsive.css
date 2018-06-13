@@ -1,0 +1,26 @@
+#logo{
+    clear: both;
+    float: none;
+    width: auto;
+    padding: 20px 0 0 0;
+    margin: 30%;
+    text-align: center;
+}
+.imageofCat{
+    width: auto;
+    clear: both;
+    margin: 5%;
+}
+#masthead{
+    width: auto;
+    margin: 100%;
+    clear: both;
+}
+.work{
+    width: 20%;
+    clear: both;
+    margin: auto;
+    float: left;
+}
+
+
